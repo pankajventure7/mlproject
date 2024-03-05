@@ -1,0 +1,5 @@
+[ 2024-03-05 00:28:20,574] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-05 00:28:20,594] 225 werkzeug - INFO -  * Debugger PIN: 121-334-969
+[ 2024-03-05 00:28:27,862] 225 werkzeug - INFO - 127.0.0.1 - - [05/Mar/2024 00:28:27] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-03-05 00:28:39,542] 225 werkzeug - INFO - 127.0.0.1 - - [05/Mar/2024 00:28:39] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-03-05 00:28:54,797] 225 werkzeug - INFO -  * Detected change in '/Users/pankajyadav/Desktop/important data/Assignment/mlproject/venv/src/predict_pipeline.py', reloading

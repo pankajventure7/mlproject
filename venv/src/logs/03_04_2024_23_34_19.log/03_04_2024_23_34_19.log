@@ -1,0 +1,11 @@
+[ 2024-03-04 23:34:20,034] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-04 23:34:20,057] 225 werkzeug - INFO -  * Debugger PIN: 121-334-969
+[ 2024-03-04 23:34:27,514] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:34:27] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-03-04 23:34:40,896] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:34:40] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-03-04 23:34:40,918] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:34:40] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-03-04 23:34:40,920] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:34:40] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-03-04 23:34:40,941] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:34:40] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-03-04 23:34:40,947] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:34:40] "GET /predictdata?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-03-04 23:34:40,958] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:34:40] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-03-04 23:35:08,406] 225 werkzeug - INFO -  * Detected change in '/Users/pankajyadav/Desktop/important data/Assignment/mlproject/venv/src/predict_pipeline.py', reloading
+[ 2024-03-04 23:35:08,617] 225 werkzeug - INFO -  * Detected change in '/Users/pankajyadav/Desktop/important data/Assignment/mlproject/venv/src/predict_pipeline.py', reloading

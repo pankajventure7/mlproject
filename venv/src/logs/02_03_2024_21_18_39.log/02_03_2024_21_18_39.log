@@ -1,0 +1,19 @@
+[ 2024-02-03 21:18:40,072] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2024-02-03 21:18:40,091] 225 werkzeug - INFO -  * Debugger PIN: 111-595-057
+[ 2024-02-03 21:18:45,169] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2024-02-03 21:18:45,190] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-02-03 21:18:45,190] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-02-03 21:18:45,204] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:18:45,209] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-02-03 21:18:45,215] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:18:45,848] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2024-02-03 21:18:45,862] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-02-03 21:18:45,862] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-02-03 21:18:45,877] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:18:45,883] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-02-03 21:18:45,889] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:18:45] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:19:21,134] 225 werkzeug - INFO -  * Detected change in '/Users/pankajyadav/Desktop/Assignment/mlproject/venv/src/app.py', reloading
+[ 2024-02-03 21:19:21,478] 225 werkzeug - INFO -  * Detected change in '/Users/pankajyadav/Desktop/Assignment/mlproject/venv/src/app.py', reloading
+[ 2024-02-03 21:19:21,666] 225 werkzeug - INFO -  * Detected change in '/Users/pankajyadav/Desktop/Assignment/mlproject/venv/src/app.py', reloading
+[ 2024-02-03 21:19:21,788] 225 werkzeug - INFO -  * Detected change in '/Users/pankajyadav/Desktop/Assignment/mlproject/venv/src/app.py', reloading
+[ 2024-02-03 21:19:21,922] 225 werkzeug - INFO -  * Detected change in '/Users/pankajyadav/Desktop/Assignment/mlproject/venv/src/app.py', reloading

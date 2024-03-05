@@ -1,0 +1,15 @@
+[ 2024-03-04 23:44:07,727] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-04 23:44:07,749] 225 werkzeug - INFO -  * Debugger PIN: 121-334-969
+[ 2024-03-04 23:45:30,557] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:30] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-03-04 23:45:30,581] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:30] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-03-04 23:45:30,581] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:30] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-03-04 23:45:30,592] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:30] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-03-04 23:45:30,605] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:30] "GET /predictdata?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-03-04 23:45:30,613] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:30] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-03-04 23:45:34,487] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:34] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-03-04 23:45:50,849] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:50] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-03-04 23:45:50,869] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:50] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-03-04 23:45:50,870] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:50] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-03-04 23:45:50,877] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:50] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-03-04 23:45:50,890] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:50] "GET /predictdata?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-03-04 23:45:50,899] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:45:50] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -

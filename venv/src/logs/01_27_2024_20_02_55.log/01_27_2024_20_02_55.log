@@ -1,0 +1,12 @@
+[ 2024-01-27 20:02:55,579] 159 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-01-27 20:02:56,961] 25 root - INFO - Entered the data ingestion method or component
+[ 2024-01-27 20:02:56,970] 28 root - INFO - Data is read 
+[ 2024-01-27 20:02:56,976] 33 root - INFO - Train test split intiated
+[ 2024-01-27 20:02:56,985] 38 root - INFO - Ingestion of the data is completed
+[ 2024-01-27 20:02:56,989] 65 root - INFO - Read train and test data completed
+[ 2024-01-27 20:02:56,989] 66 root - INFO - Obtaining preprocessing object
+[ 2024-01-27 20:02:56,989] 37 root - INFO - numerical columns encoding completed
+[ 2024-01-27 20:02:56,989] 47 root - INFO - categorical columns encoding completed
+[ 2024-01-27 20:02:56,992] 79 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-01-27 20:02:57,010] 91 root - INFO - Saved preprocessing object.
+[ 2024-01-27 20:02:57,014] 33 root - INFO - Spliting training and test input data

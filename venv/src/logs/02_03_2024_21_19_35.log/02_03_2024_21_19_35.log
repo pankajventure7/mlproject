@@ -1,0 +1,32 @@
+[ 2024-02-03 21:19:35,973] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2024-02-03 21:19:35,995] 225 werkzeug - INFO -  * Debugger PIN: 111-595-057
+[ 2024-02-03 21:19:41,034] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2024-02-03 21:19:41,057] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-02-03 21:19:41,057] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-02-03 21:19:41,069] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:19:41,074] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-02-03 21:19:41,083] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:19:41,817] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2024-02-03 21:19:41,830] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-02-03 21:19:41,830] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-02-03 21:19:41,846] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:19:41,851] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-02-03 21:19:41,857] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:19:41,984] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2024-02-03 21:19:41,995] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-02-03 21:19:41,995] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:41] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,007] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,011] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,018] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,155] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2024-02-03 21:19:42,165] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,166] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,179] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,184] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,190] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,343] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2024-02-03 21:19:42,354] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,354] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,361] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,371] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-02-03 21:19:42,377] 225 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2024 21:19:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -

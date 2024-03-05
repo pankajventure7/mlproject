@@ -1,0 +1,9 @@
+[ 2024-03-04 23:39:58,719] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-04 23:39:58,741] 225 werkzeug - INFO -  * Debugger PIN: 121-334-969
+[ 2024-03-04 23:40:53,530] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:40:53] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-03-04 23:41:05,214] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:41:05] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-03-04 23:41:05,236] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:41:05] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-03-04 23:41:05,237] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:41:05] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-03-04 23:41:05,244] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:41:05] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-03-04 23:41:05,259] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:41:05] "GET /predictdata?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-03-04 23:41:05,269] 225 werkzeug - INFO - 127.0.0.1 - - [04/Mar/2024 23:41:05] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -

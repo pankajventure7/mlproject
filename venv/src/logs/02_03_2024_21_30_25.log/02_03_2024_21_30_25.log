@@ -1,0 +1,6 @@
+[ 2024-02-03 21:30:26,500] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2024-02-03 21:30:26,501] 225 werkzeug - INFO -  * Running on http://192.168.1.4:8080/ (Press CTRL+C to quit)
+[ 2024-02-03 21:30:26,507] 225 werkzeug - INFO -  * Restarting with watchdog (fsevents)
+[ 2024-02-03 21:31:23,007] 225 werkzeug - INFO -  * Restarting with watchdog (fsevents)
+[ 2024-02-03 21:31:42,180] 225 werkzeug - INFO -  * Restarting with watchdog (fsevents)
